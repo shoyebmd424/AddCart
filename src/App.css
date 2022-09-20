@@ -1,0 +1,6 @@
+.category{
+  width: 95%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto  ;
+}
